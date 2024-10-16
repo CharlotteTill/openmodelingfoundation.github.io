@@ -20,7 +20,6 @@ Ismael Kherroubi Garcia
 
 ### **Previous Projects**
 
-
-##### **Friends of the Standards Working Group**
+### **Friends of the Certification Working Group**
 
 People and organizations who have supported WG efforts, projects, or have otherwise been directly or indirectly involved in WG projects or efforts
