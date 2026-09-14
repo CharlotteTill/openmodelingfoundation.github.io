@@ -10,15 +10,24 @@ If you are interested in joining the Certification Working Group, [please fill o
 
 {{< working-group-actions github-discussions-url="https://github.com/openmodelingfoundation/openmodelingfoundation.github.io/discussions/categories/wg-certification" >}}
 
-### **Certification Co-Chairs**
+### **Acting Certification Co-Chairs**
+#### [Maria Pierce](https://www.thuenen.de/en/institutes/baltic-sea-fisheries/staff/scientific/pierce-maria-e)
+- Ecological modeller and works on modelling and simulation workflows
+- Currently develops the work area Modelling Systems at the Thünen Institute of Baltic Sea Fisheries
+- Participates in expert groups of the International Council for the Exploration of the Sea (ICES)
 
-*We are currently seeking new Certification Working Group Co-Chairs to continue advancing this work.*
+#### [Irene Garousi-Nejad](https://www.linkedin.com/in/irene-garousi-nejad-phd-0809a047/)
+- Hydrologic and scientific computing researcher with expertise in reproducible modeling workflows, model evaluation, and large-scale environmental data systems. 
+- Contributor to Cooperative Institute for Research to Operations in Hydrology (CIROH) community efforts focused on interoperable, FAIR-aligned, and reusable hydrologic modeling and data practices.
+- Develops metadata, benchmarking, and validation approaches that support transparent assessment, traceability, and standard-based scientific software. 
+
+*We are currently seeking expressions of interest for full Certification Working Group Co-Chairs to continue advancing this work.*
 
 If you are interested or know someone who might be a good fit, please [contact us](support@openmodelingfoundation.org).
 
 ### **Current Developments**
 
-On pause.
+Re-Booting the CWG as a whole and kickstarting progress in Certification Projects
 
 ### **Previous Projects**
 - [Ten simple rules for good model-sharing practices](https://doi.org/10.1371/journal.pcbi.1012702)

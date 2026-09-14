@@ -4,11 +4,11 @@ linkTitle: "Early Career Scholars"
 aliases:
   - /about/working-groups/early-career-scholars/
 ---
-The Early Career Scholars (ECSWG) helps the Open Modeling Foundation to support student and early career development. The ECSWG is
-open to any student enrolled in an institution of higher learning (e.g., college or university) or early career scholar (recent graduate).
-The ECSWG provides input to the Executive Committee. The ECSWG can organize student-focused programs, manuscripts, and events, assisted by the Administrative Coordinator and other OMF WG's as appropriate. 
+Early Career Scholars Working Group: Early Career Scholars (ECS) helps the Open Modeling Foundation to support student and early career development. As such the ECS WG welcomes: 
+1 - Any student enrolled in an institution of higher learning (e.g., college or university) or early career scholar, and/or 
+2 - Any scholar or researcher who has gotten through the early career phase and is passionate about helping early career individuals on their journey (for example through mentorship or development of training materials or exercises). The ECSWG provides input to OMF Working Groups and the Executive Committee. The ECSWG organizes ECS and student-focused programs and events and is primarily assisted by the Administrative Coordinator and EOWG. 
 
-If you are interested in joining the Early Career Scholars Working Group, [please use this link]({{< param working_group_request_form >}}) or reach out to the group Chair for further information.
+If you are interested in joining the Early Career Scholars Working Group, [please use this link]({{< param working_group_request_form >}}) or reach out to the group Chairs for further information.
 
 {{< working-group-actions github-discussions-url="https://github.com/openmodelingfoundation/openmodelingfoundation.github.io/discussions/categories/early-career-scholars" >}}
 

@@ -32,7 +32,7 @@ If you are interested in joining the Standards Working Group, [please use this l
 
 #### [Maria Pierce](https://www.thuenen.de/en/institutes/baltic-sea-fisheries/staff/scientific/pierce-maria-e)
 - Ecological modeller and works on modelling and simulation workflows
-- Currently develops the work area Individual-Based (and other) Modelling at the Thünen Institute of Baltic Sea Fisheries
+- Currently develops the work area Modelling Systems at the Thünen Institute of Baltic Sea Fisheries
 - Participates in expert groups of the International Council for the Exploration of the Sea (ICES)
 
 ### **Current Developments**
